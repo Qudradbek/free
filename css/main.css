@@ -1,0 +1,404 @@
+html{
+  scroll-behavior: smooth;
+}
+body{
+  background-color: #FAFAFA;
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar{
+  background: #FFFFFF;
+  border: 1px solid #F3F3F3;
+  box-sizing: border-box;
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.03);
+}
+
+.developer{
+  font-family: sans-serif;
+  font-style: normal;
+  font-size: 55px;
+  line-height: 65px;
+  letter-spacing: -0.02em;
+}
+
+.img2{
+  mix-blend-mode: multiply;
+}
+
+.card-text{
+  /*position: absolute;*/
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.bootcamp{
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  letter-spacing: -0.02em;
+}
+
+.program{
+  width: 100%;
+  height: auto;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 38px;
+  letter-spacing: -0.02em;
+}
+
+.languages:hover{
+  transform: translateY(-10px);
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.03)
+}
+.for_twice{
+  margin-top: 35%;
+  margin-left: auto;
+}
+.content {
+  background-color: white;
+  padding: 10%;
+  width: 100%;
+  height: 548px;
+  /*margin-left: -25px;*/
+}
+
+.java_1{
+  width: 190px;
+  height: 172px;
+  backdrop-filter: blur(45px);
+  background: #ffffff;
+  padding-left: 25px;
+}
+.java_2{
+  /*position: absolute;*/
+  opacity: 0.8;
+  width: 172px;
+  height: 50%;
+  margin-left: -82px;
+  /*backdrop-filter: blur(45px);*/
+}
+.java-text{
+  position: absolute;
+  width: 70%;
+  height: auto;
+  padding-top: 35%;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 35px;
+  padding-left: 20px;
+}
+
+.flutter_1{
+  /*position: absolute;*/
+  width: 182px;
+  height: 179px;
+  padding-left: 15px;
+}
+.flutter_2{
+  position: absolute;
+  width: 216px;
+  height: 216px;
+  opacity: 0.8;
+  margin-top: 10%;
+  margin-left: 22.1%;
+}
+.for_python{
+  margin-top: 10%;
+  margin-left: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.path{
+  padding-right: 5%;
+  padding-top: 2%;
+  width: 31px;
+  height: 31px;
+}
+.python_1{
+  /*position: absolute;*/
+  width: 140px;
+  height: 140px;
+  opacity: 0.8;
+}
+.python_2{
+  /*position: absolute;*/
+  width: 250px;
+  height: 201px;
+  margin-top: -35%;
+  padding-left: 20%;
+}
+.python-text{
+  padding-left: 20px;
+  padding-top: 10%;
+  position: absolute;
+  width: 70%;
+  height: auto;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 35px;
+}
+.small{
+  padding-left: 20px;
+  width: 100%;
+  height: auto;
+  padding-top: 45%;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.02em;
+  opacity: 0.8;
+}
+
+.mutaxasiss{
+  width: 100%;
+  height: auto;
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 25px;
+
+  letter-spacing: -0.12px;
+}
+.first{
+  border-bottom: 1px solid #e3dfdf;
+}
+.next{
+  width: 70%;
+}
+.python{
+  position: absolute;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 30px;
+  padding-left: 43px;
+}
+.gray{
+  width: 35px;
+  height: 35px;
+}
+.green{
+  width: 35px;
+  height: 35px;
+}
+.gray{
+  text-align: center;
+  background-image: url('../images/Ellipse 16.png');
+}
+.green{
+  text-align: center;
+  background-image: url('../images/Ellipse 21.png');
+}
+.development{
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+}
+.havolalar{
+  width: 100%;
+  height: 400px;
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+.havolalar:hover{
+  transform: scale(1.02);
+  box-shadow: 10px 10px 10px #FAFAFA;
+}
+.requests{
+ padding-left: -10%;
+}
+.izoh{
+  width: 80%;
+  height: auto;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  padding-left: 10%;
+}
+.tema{
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 25px;
+
+  letter-spacing: -0.12px;
+}
+.for_img{
+  padding-left: 20%;
+}
+.finish-havolalar{
+  width: 100%;
+  height: 400px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  opacity: 0.3;
+}
+.finish-havolalar:hover{
+  transform: scale(1.02);
+  box-shadow: 10px 10px 10px #FAFAFA;
+}
+.finish-tema{
+  padding-top: 40%;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 25px;
+
+  letter-spacing: -0.12px;
+}
+.finish-izoh{
+  width: 80%;
+  height: auto;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  padding-left: 10%;
+}
+.btn{
+  background-color: #F5F5F5;
+}
+
+.mentor{
+  background-color: #FAFAFA;
+}
+
+.mx-auto{
+  font-size: x-small;
+}
+.upper:hover{
+  transform: translateY(-10px);
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.03)
+}
+.for_card{
+  border: none;
+}
+.photo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.clients{
+  border: 2px solid  #FAFAFA;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 25px;
+}
+.clients:hover{
+  transform: scale(1.1);
+  box-shadow: 10px 10px 10px #FAFAFA;
+}
+.new{
+  background-color: #fff;
+}
+.new_1{
+  width: 90%!important;
+}
+.export-text{
+  width: 384px;
+  height: 120px;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 30px
+}
+.servers{
+  background-color: #fff;
+}
+.zoom_1{
+  transition: transform .2s
+}
+.zoom_1:hover{
+  transform: scale(1.2);
+}
+.zoom_2{
+  transition: transform .2s
+}
+.zoom_2:hover{
+  transform: scale(1.2);
+}
+.servers h3{
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 20px;
+  padding-bottom: 15px;
+}
+.servers li a{
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 42px;
+  list-style: none;
+  text-transform: capitalize;
+  color: #949090;
+}
+.about{
+  mix-blend-mode: normal;
+  border-bottom: 3px solid #000000;
+}
+
+@media (max-width: 768px) {
+  .nav-item{
+    text-align: right!important;
+  }
+  .developer{
+    font-size: 40px;
+    line-height: 65px;
+    padding-left: 10px;
+  }
+  .bootcamp{
+    font-size: 30px;
+    width: 100%;
+  }
+  .program{
+    font-size: 20px;
+  }
+  .finish-tema {
+    padding-top: 55%;
+  }
+  .for_img{
+    padding-left: 5%;
+  }
+  .finish-tema {
+    padding-top: 55%;
+  }
+  .clients {
+    width: 50%;
+  }
+
+  .newsletter{
+    margin-bottom: 20px;
+  }
+  .location{
+    padding-bottom: 15px;
+  }
+}
+
